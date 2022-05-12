@@ -366,7 +366,7 @@ This overview shows how the individual hosts in the agent update behave.
 The online help ([.guihint]#Help > Show inline help#) gives further explanations. Clicking on
 icon:icon_view_20[] provides a detailed list of the individual hosts.
 You can also get to the complete list of all registered hosts via the
-[.guihint]#Monitor > Analyze > Agent update status# view. There you can
+[.guihint]#Monitor > System > Agent update status# view. There you can
 then search for specific individual hosts.
 
 image::agent_deployment_status_view.png[]
